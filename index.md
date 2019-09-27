@@ -15,6 +15,6 @@ The main results of this project encompass basic and applied ecology. On the bas
 
 To these ends we gathered a team composed of two theoretical ecologist (LBA, HMP), a field ecologist with a deep knowledge of the Portuguese riparian vegetation (PGR), an expert on invasive species (CP), a mathematician (SA) and an ecologist expert on GIS (FD). This team will be complemented by a post-doc who should also be an expert on GIS with experience on biodiversity studies, and several Master students.
 
-<img src="https://github.com/riverscale-proj/riverscale-proj.github.io/blob/master/river.png" alt="river"/>
+<img src="https://raw.githubusercontent.com/riverscale-proj/riverscale-proj.github.io/master/river.png" alt="river"/>
 
 
