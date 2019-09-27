@@ -24,5 +24,11 @@ To these ends we gathered a team composed of two theoretical ecologist (LBA, HMP
 
 [Patrícia Rodríguez-González](https://www.isa.ulisboa.pt/id/patri)
 
+[César Capinha](http://www.isa.ulisboa.pt/inbio/theoeco/people/index.html#ccapinha)
+
+[Filipe S. Dias](https://www.researchgate.net/profile/Filipe_Dias)
+
+
+
 
 
