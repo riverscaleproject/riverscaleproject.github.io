@@ -20,7 +20,7 @@ To these ends we gathered a team composed of two theoretical ecologist (LBA, HMP
 
 ## TEAM
 
-[I'm an inline-style link](https://www.google.com)
+[Luis Borda de Água](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
