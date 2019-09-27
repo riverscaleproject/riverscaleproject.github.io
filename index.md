@@ -20,9 +20,9 @@ To these ends we gathered a team composed of two theoretical ecologist (LBA, HMP
 
 ## TEAM
 
-[Luis Borda de Água](http://www.isa.ulisboa.pt/inbio/theoeco/people/index.html#lbordadeagua)
+[Luís Borda de Água](http://www.isa.ulisboa.pt/inbio/theoeco/people/index.html#lbordadeagua)
 
-[Patricia Rodriguez-Gonzalez](https://www.isa.ulisboa.pt/id/patri)
+[Patrícia Rodríguez-González](https://www.isa.ulisboa.pt/id/patri)
 
 
 
