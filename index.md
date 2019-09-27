@@ -18,7 +18,7 @@ To these ends we gathered a team composed of two theoretical ecologist (LBA, HMP
 <img src="https://raw.githubusercontent.com/riverscale-proj/riverscale-proj.github.io/master/river.png" alt="river"/>
 
 
-##TEAM
+## TEAM
 
 Luís Borda de Água
 Patricia Rodríguez-González
