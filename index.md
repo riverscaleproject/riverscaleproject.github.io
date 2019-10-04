@@ -20,7 +20,7 @@ The main results of this project encompass basic and applied ecology. On the bas
 
 [Luís Borda de Água](http://www.isa.ulisboa.pt/inbio/theoeco/people/index.html#lbordadeagua)
 
-[Patrícia Rodríguez-González](https://www.isa.ulisboa.pt/id/patri)
+[Patricia María Rodríguez-González](https://www.researchgate.net/profile/Patricia_Rodriguez-Gonzalez)
 
 [César Capinha](http://www.isa.ulisboa.pt/inbio/theoeco/people/index.html#ccapinha)
 
