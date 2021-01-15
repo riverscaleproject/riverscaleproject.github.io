@@ -24,9 +24,17 @@ The main results of this project encompass basic and applied ecology. On the bas
 
 [César Capinha](http://www.isa.ulisboa.pt/inbio/theoeco/people/index.html#ccapinha)
 
-[Filipe S. Dias](https://www.researchgate.net/profile/Filipe_Dias)
+[Filipe S. Dias](https://fsdias.github.io/)
 
 
+
+## R code
+
+As part of the project, we have developed various R scripts and Stan models that may useful for the research community. We will be sharing these tools as the project progresses. 
+
+ 1. R script for calculating network distance - https://fsdias.github.io/network_distance/
+ 2. R script for calculating Euclidean distances - https://fsdias.github.io/euclidean_distance.md/
+ 3. R scritp for calculating flow distances - https://fsdias.github.io/flow_distance.md/
 
 
 
