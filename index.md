@@ -29,14 +29,14 @@ The main results of this project encompass basic and applied ecology. On the bas
 
 ## Publications
 
-Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the Distance Decay of Community Similarity in River Networks Using Bayesian Methods.” Scientific Reports 11, no. 1 (November 4, 2021): 21660. [https://doi.org/10.1038/s41598-021-01149-x]https://doi.org/10.1038/s41598-021-01149-x
+Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the Distance Decay of Community Similarity in River Networks Using Bayesian Methods.” Scientific Reports 11, no. 1 (November 4, 2021): 21660. [https://doi.org/10.1038/s41598-021-01149-x](https://doi.org/10.1038/s41598-021-01149-x)
 
 
 ## PREPRINTS
 
-Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the distance decay of community similarity in river networks using Bayesian methods.” EcoEvoRxiv. [https://ecoevorxiv.org/e7ad2/]https://ecoevorxiv.org/e7ad2/
+Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the distance decay of community similarity in river networks using Bayesian methods.” EcoEvoRxiv. [https://ecoevorxiv.org/e7ad2/](https://ecoevorxiv.org/e7ad2/)
 
-Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “A Bayesian approach for analysing pairwise comparisons: a case study using species composition similarity.” EcoEvoRxiv. [https://ecoevorxiv.org/sn5jr/]https://ecoevorxiv.org/sn5jr/
+Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “A Bayesian approach for analysing pairwise comparisons: a case study using species composition similarity.” EcoEvoRxiv. [https://ecoevorxiv.org/sn5jr/](https://ecoevorxiv.org/sn5jr/)
 
 
 
