@@ -26,17 +26,25 @@ The main results of this project encompass basic and applied ecology. On the bas
 
 [Filipe S. Dias](https://fsdias.github.io/)
 
+## MSc Students
+
+[Rebecca Pabst](https://www.researchgate.net/profile/Rebecca-Pabst)
+
 
 ## Publications
+
+Pabst, Rebecca, Filipe S. Dias, Luís Borda-de-Água, Patricia María Rodríguez-González, and César Capinha. “Assessing and Predicting the Distribution of Riparian Invasive Plants in Continental Portugal.” Frontiers in Ecology and Evolution 10 (May 6, 2022): 875578. [https://doi.org/10.3389/fevo.2022.875578](https://doi.org/10.3389/fevo.2022.875578)
 
 Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the Distance Decay of Community Similarity in River Networks Using Bayesian Methods.” Scientific Reports 11, no. 1 (November 4, 2021): 21660. [https://doi.org/10.1038/s41598-021-01149-x](https://doi.org/10.1038/s41598-021-01149-x)
 
 
 ## PREPRINTS
 
+Dias, Filipe S., Patricia María Rodríguez-González, and Luís Borda-de-Água. “Human disturbance decreases dominance in riparian plant communities.” EcoEvoRxiv.[https://ecoevorxiv.org/kzdte](https://ecoevorxiv.org/kzdte)
+
 Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the distance decay of community similarity in river networks using Bayesian methods.” EcoEvoRxiv. [https://ecoevorxiv.org/e7ad2/](https://ecoevorxiv.org/e7ad2/)
 
-Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “A Bayesian approach for analysing pairwise comparisons: a case study using species composition similarity.” EcoEvoRxiv. [https://ecoevorxiv.org/sn5jr/](https://ecoevorxiv.org/sn5jr/)
+Dias, Filipe S., Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “BetaBayes - A Bayesian approach for comparing ecological communities.” EcoEvoRxiv. [https://ecoevorxiv.org/sn5jr/](https://ecoevorxiv.org/sn5jr/)
 
 
 
